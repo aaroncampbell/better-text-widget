@@ -1,7 +1,7 @@
 === Better Text Widget ===
 Contributors: aaroncampbell
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal%40xavisys%2ecom&item_name=Better%20Text%20Widget&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
-Tags: twitter, widget, feed
+Tags: text, widget
 Requires at least: 2.7
 Tested up to: 2.7.1
 Stable tag: 1.0.0
