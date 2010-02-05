@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Better Text Widget
- * Plugin URI: http://xavisys.com/2009/04/wordpress-text-widget
+ * Plugin URI: http://xavisys.com/wordpress-plugins/better-text-widget/
  * Description: An improved text widget that adds a class to each instance (based off title)
  * Version: 1.0.0
  * Author: Aaron D. Campbell
