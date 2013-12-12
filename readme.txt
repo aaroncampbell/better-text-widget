@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal%4
 Tags: text, widget
 Requires at least: 3.5
 Tested up to: 3.8
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 
 A widget improves upon the built-in text widget by adding a class to each instance of the widget, based on the title.
 
@@ -18,6 +18,9 @@ A widget improves upon the built-in text widget by adding a class to each instan
 
 == Upgrade Notice ==
 
+= 1.1.1 =
+Fixes an issue with the 1.1.0 release where some widgets were getting lost, and rescues those lost widgets if possible.
+
 = 1.1.0 =
 More efficient and based off the new text widget code
 
@@ -25,6 +28,9 @@ More efficient and based off the new text widget code
 Brand new version
 
 == Changelog ==
+
+= 1.1.1 =
+* Convert old Better Text Widget widgets to regular Text widgets
 
 = 1.1.0 =
 * Now extends the existing text widget and simply replaces it's class
