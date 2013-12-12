@@ -1,5 +1,5 @@
 === Better Text Widget ===
-Contributors: aaroncampbell
+Contributors: aaroncampbell, PeteMall, range, saracannon, krogsgard
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal%40xavisys%2ecom&item_name=Better%20Text%20Widget&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Tags: text, widget
 Requires at least: 3.5
@@ -26,7 +26,7 @@ Brand new version
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1.0 =
 * Now extends the existing text widget and simply replaces it's class
 
 = 1.0.0 =
